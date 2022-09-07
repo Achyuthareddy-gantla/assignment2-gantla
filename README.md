@@ -43,6 +43,7 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
  # Code Fencing
   
 >How to capitalize first letter and lowercase the rest of the string?
+
 <https://stackoverflow.com/questions/63511237/how-to-capitalize-first-letter-and-lowercase-the-rest-of-the-string>
 ~~~
 @keyframes name-of-animation {
