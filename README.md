@@ -32,3 +32,7 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
 | Vizag| Rishikonda Beach | 5 hours |
 | Warangal| Bogatha WaterFalls | 8 Hours |
 | Delhi | Red Fort | 4 Hours |
+
+****
+# Pithy Quotes
+> For every minute you are angry you lose sixty seconds of happiness - * Ralph Waldo Emerson *
