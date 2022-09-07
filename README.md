@@ -20,4 +20,15 @@ Boone County Regional Airport
 * Ozark View Rv Park
 * State Line Rv Park
 * Lost Canyon Cave    
-[ upload](AboutMe.md)
+[ open](AboutMe.md)
+
+**** 
+# Places to Visit
+Fill Your eyes with beautiful colors by visiting different cities embedded with beautiful sceneries and historical background which recalls our historical moments and their greatness.
+
+| City Name|Location  | Time to Spend |
+| --- | --- | ---: |
+| Hyderabad| Cable Bridge| 2 hours|
+| Vizag| Rishikonda Beach | 5 hours |
+| Warangal| Bogatha WaterFalls | 8 Hours |
+| Delhi | Red Fort | 4 Hours |
