@@ -36,3 +36,5 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
 ****
 # Pithy Quotes
 > For every minute you are angry you lose sixty seconds of happiness - *Ralph Waldo Emerson*
+
+>Love is that condition in which the happiness of another person is essential to your own   -*Robert A.Heinlein*
