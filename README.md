@@ -17,6 +17,6 @@ Boone County Regional Airport
 
 * Harrison Koa Holiday
 *  Jessie James Junction Rv Park
-    * Ozark View Rv Park
-     * State Line Rv Park
- * Lost Canyon Cave    
+* Ozark View Rv Park
+* State Line Rv Park
+* Lost Canyon Cave    
