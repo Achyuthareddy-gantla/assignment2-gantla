@@ -35,4 +35,4 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
 
 ****
 # Pithy Quotes
-> For every minute you are angry you lose sixty seconds of happiness - * Ralph Waldo Emerson *
+> For every minute you are angry you lose sixty seconds of happiness - *Ralph Waldo Emerson*
