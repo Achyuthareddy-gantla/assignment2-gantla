@@ -38,3 +38,21 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
 > For every minute you are angry you lose sixty seconds of happiness - *Ralph Waldo Emerson*
 
 >Love is that condition in which the happiness of another person is essential to your own   -*Robert A.Heinlein*
+
+****
+ # Code Fencing
+  
+>How to capitalize first letter and lowercase the rest of the string
+<https://stackoverflow.com/questions/63511237/how-to-capitalize-first-letter-and-lowercase-the-rest-of-the-string>
+~~~
+@keyframes name-of-animation {
+  0%    { opacity: 0; }
+  20%   { opacity: 1; }
+  80%   { opacity: 0; }
+  100%  { opacity: 1; }
+}
+
+.animate-this-element {
+  animation: name-of-animation 5s infinite;
+}
+~~~
