@@ -42,7 +42,7 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
 ****
  # Code Fencing
   
->How to capitalize first letter and lowercase the rest of the string
+>How to capitalize first letter and lowercase the rest of the string?
 <https://stackoverflow.com/questions/63511237/how-to-capitalize-first-letter-and-lowercase-the-rest-of-the-string>
 ~~~
 @keyframes name-of-animation {
@@ -56,3 +56,4 @@ Fill Your eyes with beautiful colors by visiting different cities embedded with 
   animation: name-of-animation 5s infinite;
 }
 ~~~
+<https://css-tricks.com/snippets/css/keyframe-animation-syntax/>
